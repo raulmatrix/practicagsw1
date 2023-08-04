@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>practica</title>
-</head>
-<body>
-	<p>
+
 var numero1 = 5;
 var numero2 = 8;
 
@@ -25,8 +17,3 @@ if (numero1 < 0 || numero1 !== 0) {
 if (++numero1 <= numero2) {
     alert("incrementar en 1 unidad el valor de número 1 no lo hace mayor o igual que número 2");
 }
-	</p>
-
-
-</body>
-</html>
