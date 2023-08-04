@@ -11,4 +11,5 @@ if(numero2 < 0 || numero2 !=0){
 }
 if(numero1 += 1 >= numero2){
     alert("Incrementar en 1 unidad el valor de numero1 no lo hace mayor o igual que número2");
+    
 }
