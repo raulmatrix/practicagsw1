@@ -10,6 +10,7 @@ If(0<numero2){
 If(numero1<0){
 	alert("Numero1 es negativo o distivo a cero");
 }
-If(numero1<numero2){
-	alert("Incrementar en 1 ");
+If((numero1+1)<numero2){
+	alert("Incrementar en 1 unidad el valor de numero1 no lo hace mayor o igual que numero 2");
+   
 }
